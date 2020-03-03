@@ -12,4 +12,3 @@ function daysTill(dateString) {
     //return getTime;
     var display = document.getElementById('days').textContent = getTime;
 }
-
