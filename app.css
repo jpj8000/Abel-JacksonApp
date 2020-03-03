@@ -1,7 +1,10 @@
 Body {
-    background-color: deepskyblue;
+    background-color: #66CC99;
     font-family: sans-serif;
-    color: whitesmoke;
+    color: white;
     text-align: center;
 }
-
+img {
+    width: 30%;
+    height: auto;
+}
